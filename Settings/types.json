@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "modification date": "text",
+    "adj": "checkbox",
+    "score": "number",
+    "acaDue-Date": "date",
+    "creation date": "date",
+    "lectureNo": "number",
+    "round": "number",
+    "depRoundNo": "number"
+  }
+}

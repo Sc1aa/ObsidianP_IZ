@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1712920783844,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1712920825338,
+          "path": "0000 Index.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1712920801070,
+          "path": "Academic/3000 Academic Index.md",
+          "title": ""
+        },
+        {
+          "type": "file",
+          "ctime": 1712920832618,
+          "path": "Personal/6000 Personal Index.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1712920848851,
+          "path": "9000 Social Index.md"
+        }
+      ],
+      "title": "Index"
+    }
+  ]
+}
