@@ -1,0 +1,17 @@
+views:
+  - type: cards
+    name: YouTube Default CardsView
+    filters:
+      and:
+        - file.inFolder("Personal/Tracking/YouTube")
+    order:
+      - file.name
+      - file.ctime
+      - creator
+      - description
+      - tags
+      - url
+      - completed
+    image: note.displayimage
+    cardSize: 310
+    imageAspectRatio: 0.55
