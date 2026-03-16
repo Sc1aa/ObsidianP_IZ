@@ -2,9 +2,16 @@
 
 _Public storage: Obsidian Vault; workkflow, settings, misc. content_
 
+!! Restriced Mode OFF Required for 3rd Party Plugins !!
+_Feel free to direct download off Community Plugins Browser off attached list_
+
+## API Functionality
+Flashcards-->Anki, Instapaper, Todoist Sync, all require API keys in-order to work.
+
 ## Out of Box Functionality
 Create New Vault/Use Pre-Existing Vault
 Download repo Drag and Drop--> Vault
+
 _Should work natively_
 
 ## Settings
