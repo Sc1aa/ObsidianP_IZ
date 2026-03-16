@@ -1,0 +1,22 @@
+{
+  "apiTokenSecretId": "swt-todoist-api-token",
+  "tokenStorage": "secrets",
+  "fadeToggle": true,
+  "autoRefreshToggle": true,
+  "autoRefreshInterval": 3600,
+  "renderDateIcon": true,
+  "renderProjectIcon": true,
+  "renderLabelsIcon": true,
+  "shouldWrapLinksInParens": false,
+  "addTaskButtonAddsPageLink": "content",
+  "taskCreationDefaultDueDate": "none",
+  "taskCreationDefaultProject": null,
+  "taskCreationDefaultLabels": [],
+  "defaultAddTaskAction": "add",
+  "debugLogging": true,
+  "version": 1,
+  "renderDescription": false,
+  "renderDate": false,
+  "renderProject": false,
+  "renderLabels": false
+}

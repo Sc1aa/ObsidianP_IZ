@@ -1,0 +1,8 @@
+{
+  "show-checkboxes": true,
+  "date-format": "DD-MM-YY",
+  "date-display-format": "DD-MM-YY",
+  "time-format": "hh:mm:ss A",
+  "show-relative-date": true,
+  "link-date-to-daily-note": true
+}

@@ -1,0 +1,10 @@
+{
+  "files": [],
+  "templaterFiles": [
+    "FNC_Hotkey/PromoteHeadings.md",
+    "FNC_Hotkey/DemoteHeadings.md"
+  ],
+  "newFileTemplates": [],
+  "openNewFileTemplateInNewPane": true,
+  "useNewFileTemplateOnFileCreation": false
+}

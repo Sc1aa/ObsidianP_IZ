@@ -1,0 +1,16 @@
+{
+  "syncFrequency": 1440,
+  "syncOnStart": true,
+  "notesFolder": "Personal/Media/Instapaper",
+  "notesCursor": 26510532,
+  "token": {
+    "key": "a9d26c005d834eb199d8062ca60e7692",
+    "secret": "a9f77b89519d4663827f2de6c9a9da8f"
+  },
+  "account": {
+    "username": "asaicz0g@gmail.com",
+    "user_id": 11064752,
+    "type": "user",
+    "subscription_is_active": "0"
+  }
+}

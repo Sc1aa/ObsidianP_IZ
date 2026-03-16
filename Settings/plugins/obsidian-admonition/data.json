@@ -1,0 +1,75 @@
+{
+  "userAdmonitions": {
+    "objections": {
+      "type": "objections",
+      "color": "255, 0, 0",
+      "icon": {
+        "type": "obsidian",
+        "name": "lucide-alert-octagon"
+      },
+      "command": false,
+      "title": "Considerations & Objections",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": true
+    },
+    "Components": {
+      "type": "Components",
+      "color": "83, 104, 213",
+      "icon": {
+        "type": "obsidian",
+        "name": "lucide-pie-chart"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "Thoughts": {
+      "type": "Thoughts",
+      "color": "140, 0, 255",
+      "icon": {
+        "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAfFJREFUSEu11U2IjXEUBvDfSOOjLNmwMZSFbMTKhpVEGRuKLH0TsWJjpCwUZfIRtkrZYMHCAitJiUIhHxtK2ElGCT36v3q7c+d6x9x76na7557/ec7nc/qMlsmYiyd4g3lYjB1Yg8cYxHw8w2sMYBHe4kfdZV8bgNU4iMu4gK04jbvYhpfoL0BncR5bsAnHcKMTwBzcxF7cqRkuxCd8LLpJJepXNZsVGMYqvKv0yWAKTmAlvpc/UoL64zaJjlKlZNeKNj5vYX8A4iwRb6hF2MRhJ5uZuIJTAfiAczgyUa8t7w9nMALwC0M9AhgKwJnShz341qUsppeGjwQgE3IfS/CiSwALcBTbA/CodL/bPUis/b3swXKs6yVApuhPk7Mg98q6V8uV72rpmrYlyxVfkXyHZpZVXJR0LmF24Zz/WboMy9MCEKrYHF91sgsjTmvhnKbRxy4AYdwsbcY9TKwdm0afSJJFJKAPyuofL6WLo11ltEeK3UMcKHv1N7CxAHYifFJJOD6fqTVdGKD+/nOr804Z1EtTMWRIcdwyVgZVTW+XnuT3LITzc8Uay78Acsn24Wfhlt3dAFha7uxXnMTawrjXSxPHtR+tGWQismSpd47/e3xpXI82hq0AubnrETY8VM7o824CpBwXMQMbcXUizvP2N2UtaLfrkMXMAAAAAElFTkSuQmCC",
+        "type": "image"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
+    },
+    "ASSESSMENT": {
+      "type": "ASSESSMENT",
+      "color": "255, 255, 255",
+      "icon": {
+        "type": "rpg",
+        "name": "x-mark"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "10.3.2",
+  "autoCollapse": true,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": true
+  },
+  "icons": [
+    "octicons",
+    "rpg"
+  ],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.c04aa5"
+}
