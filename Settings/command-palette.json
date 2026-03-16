@@ -1,6 +1,8 @@
 {
   "pinned": [
     "flashcards-obsidian:generate-flashcard-current-file",
-    "window:reset-zoom"
+    "window:reset-zoom",
+    "theme:toggle-light-dark",
+    "obsidian-text-format:custom-replace:remove-blank-line"
   ]
 }

@@ -4,52 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "a74014358fbf8ee5",
+        "id": "44909c9a54a5f332",
         "type": "tabs",
         "children": [
           {
-            "id": "aa8212b2aab82cb5",
+            "id": "42392277601d0f0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academic/Psychology/Neuropsychology in Clinical Practice/Lectures/Cognitive Screening Tools (PSYU3344 Lecture 3).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Cognitive Screening Tools (PSYU3344 Lecture 3)"
+              "title": "New tab"
             }
           },
           {
-            "id": "f2566e5ce2d78c06",
+            "id": "0923d457cb941da0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Psychology/Neuropsychology in Clinical Practice/Lectures/Principles of Neuropsychological Assessment (PSYU3344 Lecture 2).md",
+                "file": "Academic/3000 Academic Index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Principles of Neuropsychological Assessment (PSYU3344 Lecture 2)"
+              "title": "3000 Academic Index"
             }
           },
           {
-            "id": "a7ca950c2e19ad46",
+            "id": "02010d7c2cf1f38d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Psychology/Neuropsychology in Clinical Practice/Lectures/Unit Introduction & Neuroanatomy (PSYU3344 Lecture 1).md",
+                "file": "Academic/Coursework/Psychology/Psychology At Work/Lectures/Job Analysis (PSYU3338 Lecture 2).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Unit Introduction & Neuroanatomy (PSYU3344 Lecture 1)"
+              "title": "Job Analysis (PSYU3338 Lecture 2)"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "1d9574b192484bc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f39010f39ba51ffe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -64,7 +81,7 @@
       {
         "id": "b10e0966a870f5d5",
         "type": "tabs",
-        "dimension": 60.38812785388128,
+        "dimension": 39.2807745504841,
         "children": [
           {
             "id": "40cf6cd163baa7bd",
@@ -110,37 +127,14 @@
               "icon": "lucide-file",
               "title": "3000 Academic Index"
             }
-          },
-          {
-            "id": "459900f68343435e",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
-            }
-          },
-          {
-            "id": "5827ba57f31db284",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "d0bbdf95c1c630c1",
         "type": "tabs",
-        "dimension": 39.61187214611872,
+        "dimension": 60.7192254495159,
         "children": [
           {
             "id": "6d287760396fb38e",
@@ -148,7 +142,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Debating",
+                "query": "tag:#🌲",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -189,7 +183,7 @@
             }
           },
           {
-            "id": "671ce27f4859d35c",
+            "id": "07623629f54c7d5d",
             "type": "leaf",
             "state": {
               "type": "chronology-calendar-view",
@@ -197,9 +191,32 @@
               "icon": "clock",
               "title": "Chronology"
             }
+          },
+          {
+            "id": "5827ba57f31db284",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9303d2c9dcbdcb34",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -214,18 +231,28 @@
         "type": "tabs",
         "children": [
           {
+            "id": "42f1d420b8c80954",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
             "id": "80ac568dc9446cec",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social/Work/COGITO/25 COGITO/25 Term 3/17_08_25 COGITO LP.md",
+                "file": "Academic/Coursework/Psychology/Measurement and Research Applications in Psychology/Lectures/Introduction to Measurement and Scientific Methods (PSYU3330 Lecture 1).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 17_08_25 COGITO LP"
+              "title": "Outline of Introduction to Measurement and Scientific Methods (PSYU3330 Lecture 1)"
             }
           },
           {
@@ -234,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social/Work/COGITO/25 COGITO/25 Term 3/17_08_25 COGITO LP.md",
+                "file": "Social/Work/COGITO/26 COGITO/15-03-26 COGITO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +271,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 17_08_25 COGITO LP"
+              "title": "Backlinks for 15-03-26 COGITO"
             }
           },
           {
@@ -253,26 +280,27 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Psychology/Design and Statistics III/Assessments/PSYU3349 FINAL.md",
+                "file": "Social/Work/COGITO/26 COGITO/15-03-26 COGITO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from PSYU3349 FINAL"
+              "title": "Outgoing links from 15-03-26 COGITO"
             }
           },
           {
-            "id": "cf118fd56ef1cb2f",
+            "id": "eddde519287f3cd9",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "type": "file-properties",
+              "state": {
+                "file": "Academic/Coursework/Psychology/Measurement and Research Applications in Psychology/Lectures/Introduction to Measurement and Scientific Methods (PSYU3330 Lecture 1).md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Introduction to Measurement and Scientific Methods (PSYU3330 Lecture 1)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -281,68 +309,73 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-advanced-slides:Show Slide Preview": true,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": true,
-      "omnisearch:Omnisearch": false,
-      "graph:Open graph view": false,
-      "chronology:Open Chronology": false,
+      "omnisearch:Omnisearch": true,
+      "graph:Open graph view": true,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": false,
       "flashcards-obsidian:Generate flashcards": true,
-      "templater-obsidian:Templater": false,
-      "soundscapes:Soundscapes: My Music": false
+      "templater-obsidian:Templater": true,
+      "chronology:Open Chronology": true,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "aa8212b2aab82cb5",
+  "active": "02010d7c2cf1f38d",
   "lastOpenFiles": [
-    "Pasted image 20250819104056.png",
-    "Pasted image 20250819102826.png",
-    "Academic/Psychology/Neuropsychology in Clinical Practice/Lectures/Principles of Neuropsychological Assessment (PSYU3344 Lecture 2).md",
-    "Academic/Psychology/Neuropsychology in Clinical Practice/Lectures/Unit Introduction & Neuroanatomy (PSYU3344 Lecture 1).md",
-    "Academic/Psychology/Neuropsychology in Clinical Practice/Lectures/Cognitive Screening Tools (PSYU3344 Lecture 3).md",
-    "Academic/Research/OPAL/OPAL Tracking.md",
-    "Personal/Dailies/2025/August/19-08-25.md",
-    "Social/Work/COGITO/25 COGITO/25 Term 3/17_08_25 COGITO LP.md",
-    "Academic/Psychology/Advanced Personality and Individual Differences/Assessment/Annotate Bibliography (PSYU3336).md",
-    "Academic/Psychology/Advanced Personality and Individual Differences/Assessment",
-    "Pasted image 20250818225332 1.png",
-    "Pasted image 20250818225332.png",
-    "Academic/Psychology/PACE/Lectures/Aggressive Behaviour (PSYU3399 Lecture 3).md",
-    "Academic/Psychology/PACE/Lectures/Research Ethics (PSYU3399 Lecture 2).md",
-    "Personal/Dailies/2025/August/18-08-25.md",
-    "Social/Work/Private/MOC Private Clients.md",
-    "Social/Work/TSC/2025/GPS 25/15-08-25 GPS R3.md",
-    "Academic/Psychology/PACE/Lectures/PSYU3399 Lecture 2.md",
-    "Personal/Dailies/2025/August/16-08-25.md",
-    "Social/Debating/MOC Debating.md",
+    "Untitled.md",
+    "Academic/Coursework/Psychology/Psychology At Work/Lectures/Job Analysis (PSYU3338 Lecture 2).md",
+    "Academic/3000 Academic Index.md",
+    "Personal/Media/Films/Movies/MOC Movies.md",
+    "Social/Debating/Theory/Matter/IR/MOC IR.md",
+    "Social/Debating/MQU Seminars/On Knowledge.md",
+    "Personal/Dailies/2026/March/15-03-26.md",
+    "Social/Work/COGITO/26 COGITO/15-03-26 COGITO.md",
+    "Personal/Tracking/Youtube To Watch.base",
+    "Personal/Media/Films/MOC Films.md",
+    "Academic/Coursework/Psychology/Measurement and Research Applications in Psychology/Lectures/Score Normalisation and Reliability (PSYU3330 Lecture 2).md",
+    "Personal/Dailies/2026/March/14-03-26.md",
+    "Academic/Coursework/Psychology/Measurement and Research Applications in Psychology/Tutorials/PSYU3330 Tut 1.md",
+    "Academic/PostGrad/MOC PostGrad.md",
     "Personal/Templates/Academic Templates/AcaLect Template-.md",
-    "Academic/Psychology/_Archive/Psychological Health and Wellbeing/Lectures/Diet and Health (PSYU2222 Lecture 9).md",
-    "Social/Debating/Majors/AWGMDC 25/Equity AWGMDC 25.md",
-    "Academic/Philosophy/MOC PHIL.md",
-    "Personal/Media/Manga/MOC Manga.md",
-    "Academic/Philosophy/Happiness, Goodness and Justice/Lectures/The Consequences of Our Actions (PHIL1032 Lecture 4.1).md",
-    "0000 Index.md",
-    "Social/Work/TSC/2025/GPS 25/08-08-25 GPS R2.md",
-    "Academic/Research/MEG Induction.md",
-    "Academic/Philosophy/Art, Aesthetics and Social Philosophy/Readings/The Concept of the Aesthetic(PHIL3052 W1).md",
-    "Pasted image 20250815015520.png",
-    "Pasted image 20250815004842.png",
-    "Pasted image 20250815005618.png",
-    "Pasted image 20250815005455.png",
-    "Pasted image 20250815005527.png",
-    "Pasted image 20250815005435.png",
-    "Pasted image 20250815005222.png",
-    "Academic/Psychology/Neuropsychology in Clinical Practice/Tutorials",
-    "Social/Debating/Majors/AWGMDC 25",
-    "Academic/Psychology/Neuropsychology in Clinical Practice/Assessment/Final",
-    "Academic/Psychology/Neuropsychology in Clinical Practice/Assessment",
-    "Academic/Philosophy/Art, Aesthetics and Social Philosophy/Tutorials",
-    "Academic/Philosophy/Art, Aesthetics and Social Philosophy/Assessments",
-    "Personal/Dailies/2025/August",
-    "Academic/Psychology/Advanced Personality and Individual Differences/Readings",
-    "Academic/Psychology/Advanced Personality and Individual Differences/Tutorials",
+    "Social/Work/Barker/Term 1/13-03-26 Riverview.md",
+    "Social/Debating/MOC Judging.md",
+    "Social/Debating/CA/Topics.md",
+    "Social/Debating/MQU Seminars/The Fundamental Problem.md",
+    "Social/Debating/MQU Seminars/Knowing Nothing.md",
+    "Social/Work/Barker/Barker Scratch.md",
+    "Social/Work/Barker/MOC Barker.md",
+    "Social/Debating/MQU Seminars/On Thinking.md",
+    "Academic/Coursework/Psychology/Measurement and Research Applications in Psychology/PSYU3330 Glossary.md",
+    "Social/Debating/MQU Seminars/Feminism.md",
+    "Academic/Coursework/Psychology/Measurement and Research Applications in Psychology/Lectures/Introduction to Measurement and Scientific Methods (PSYU3330 Lecture 1).md",
+    "Personal/Media/Books/MOC Books.md",
+    "Academic/Coursework/Psychology/Psychology At Work/Lectures/attachments/Pasted image 20260313000121.png",
+    "Academic/Coursework/Psychology/Psychology At Work/Lectures/attachments/Pasted image 20260312233711.png",
+    "Academic/Coursework/Psychology/Psychology At Work/Lectures/attachments/Pasted image 20260312202136.png",
+    "Academic/Coursework/Psychology/Psychology At Work/Lectures/attachments/Pasted image 20260312201157.png",
+    "Academic/Coursework/Psychology/Measurement and Research Applications in Psychology/Lectures/attachments/Pasted image 20260312180057.png",
+    "Academic/Coursework/Psychology/Measurement and Research Applications in Psychology/Lectures/attachments/Pasted image 20260312172757.png",
+    "Academic/Coursework/Psychology/Measurement and Research Applications in Psychology/Lectures/attachments/Pasted image 20260312161447.png",
+    "Academic/Coursework/Psychology/Measurement and Research Applications in Psychology/Lectures/attachments/Pasted image 20260312161446.png",
+    "Academic/Coursework/Psychology/Measurement and Research Applications in Psychology/Lectures/attachments",
+    "Social/Debating/MQU Seminars/attachments/Pasted image 20260310183022.png",
+    "Social/Debating/MQU Seminars/attachments",
+    "Social/Debating/Minis/26/Small4",
+    "Social/Debating/Minis/26",
+    "Academic/Coursework/Philosophy/Consciousness and Self/Lectures/attachments/Screenshot 2026-03-05 at 1.17.24 PM.png",
+    "Academic/Coursework/Philosophy/Consciousness and Self/Lectures/attachments",
+    "Personal/Dailies/2026/March",
+    "Academic/Coursework/Psychology/Psychology At Work/Lectures/attachments",
+    "Personal/Templates/Academic Templates/FolderHierarchy/Tutorials",
+    "Personal/Templates/Academic Templates/FolderHierarchy/Lectures",
     "Untitled.canvas"
   ]
 }

@@ -1,5 +1,13 @@
 {
-  "cssTheme": "Primary",
+  "cssTheme": "Blue Topaz",
   "textFontFamily": "Century Gothic,Baskerville Old Face",
-  "theme": "obsidian"
+  "theme": "system",
+  "showViewHeader": true,
+  "showRibbon": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "custom-admonitions.c04aa5"
+  ],
+  "accentColor": "#8041fe",
+  "interfaceFontFamily": "Century Gothic"
 }
