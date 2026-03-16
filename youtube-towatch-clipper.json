@@ -1,0 +1,56 @@
+{
+	"schemaVersion": "0.1.0",
+	"name": "Youtube ToWatch",
+	"behavior": "create",
+	"noteContentFormat": "![]({{url}})",
+	"properties": [
+		{
+			"name": "title",
+			"value": "{{title}}",
+			"type": "text"
+		},
+		{
+			"name": "url",
+			"value": "{{url}}",
+			"type": "text"
+		},
+		{
+			"name": "creator",
+			"value": "{{author|split:\\\", \\\"|wikilink|join}}",
+			"type": "text"
+		},
+		{
+			"name": "published",
+			"value": "{{published}}",
+			"type": "date"
+		},
+		{
+			"name": "created",
+			"value": "{{date}}",
+			"type": "date"
+		},
+		{
+			"name": "description",
+			"value": "{{description}}",
+			"type": "text"
+		},
+		{
+			"name": "tags",
+			"value": "clippings",
+			"type": "multitext"
+		},
+		{
+			"name": "medium",
+			"value": "Video",
+			"type": "text"
+		},
+		{
+			"name": "displayimage",
+			"value": "{{image}}",
+			"type": "text"
+		}
+	],
+	"triggers": [],
+	"noteNameFormat": "{{title}}",
+	"path": "Personal/Tracking/YouTube"
+}

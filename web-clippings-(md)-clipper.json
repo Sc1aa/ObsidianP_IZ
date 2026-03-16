@@ -1,0 +1,41 @@
+{
+	"schemaVersion": "0.1.0",
+	"name": "Web Clippings (md)",
+	"behavior": "append-specific",
+	"noteContentFormat": "{{content}}",
+	"properties": [
+		{
+			"name": "title",
+			"value": "{{title}}",
+			"type": "text"
+		},
+		{
+			"name": "url",
+			"value": "{{url}}",
+			"type": "text"
+		},
+		{
+			"name": "created",
+			"value": "{{date}}",
+			"type": "date"
+		},
+		{
+			"name": "description",
+			"value": "{{description}}",
+			"type": "text"
+		},
+		{
+			"name": "tags",
+			"value": "clippings",
+			"type": "multitext"
+		},
+		{
+			"name": "displayimage",
+			"value": "{{image}}",
+			"type": "text"
+		}
+	],
+	"triggers": [],
+	"noteNameFormat": "Web Clipping (Tracking)",
+	"path": "Personal/Tracking/Web Clipping (Tracking)"
+}
