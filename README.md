@@ -30,7 +30,9 @@ All my current markdown templates
 
 Requires dataview plugin
 
-For semantic networking/mapping refer specifically to 'Templates/zObs-MOC Templates'
+For semantic networking/mapping refer to 'Templates/zObs-MOC Templates'
+For media base refer to 'Templates/Youtube To Watch.base'
+
 
 ## Web Clipper Templates
 All my current obsidian web clipper templates
