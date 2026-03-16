@@ -26,7 +26,7 @@ Drag and Drop spec. Files/Folders--> Vault/.obsidian
 Replaces SELECT Settings, Plugins, Themes, etc. @Vault
 
 ## Templates
-All my current markdown tempaltes
+All my current markdown templates
 
 Requires dataview plugin
 
