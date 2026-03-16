@@ -31,3 +31,8 @@ All my current markdown tempaltes
 Requires dataview plugin
 
 For semantic networking/mapping refer specifically to 'Templates/zObs-MOC Templates'
+
+## Web Clipper Templates
+All my current obsidian web clipper templates
+
+https://obsidian.md/clipper
