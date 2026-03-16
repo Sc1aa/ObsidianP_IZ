@@ -24,3 +24,10 @@ Method 2: Open .obsidian
 Drag and Drop spec. Files/Folders--> Vault/.obsidian
 
 Replaces SELECT Settings, Plugins, Themes, etc. @Vault
+
+## Templates
+All my current markdown tempaltes
+
+Requires dataview plugin
+
+For semantic networking/mapping refer specifically to 'Templates/zObs-MOC Templates'
